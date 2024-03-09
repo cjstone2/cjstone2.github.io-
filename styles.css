@@ -11,26 +11,11 @@ body {
 }
 
 nav {
-    width: 100%;
-    background-color: #226194; 
+    background-color: #efefef; 
+    padding: 10px;
+    margin: 10px:
 }
 
-nav ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    text-align: left;
-}
 
-nav li {
-    display: inline;
-}
-
-nav a {
-    display: inline-block;
-    text-decoration: none;
-    color: #f0f8ff;
-    padding: 10px 15px;
-}
 
 
