@@ -21,6 +21,9 @@ li {
     padding: 5 px;
 }
 
-
+section {
+    overflow: auto;
+    height: 100%;
+}
 
 
